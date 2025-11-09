@@ -1,0 +1,4 @@
+1. streamlit is library used for making web interface in python. Mostly used in Data Science and AI projects to create a   interface.
+
+2. Selenium is a library used to access brower and interact with it. Here we using it for web access and web scrapping
+
